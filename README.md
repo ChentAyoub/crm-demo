@@ -190,13 +190,16 @@ L'application se distingue par un design moderne, épuré et intuitif. Elle int�
 ### Aperçu des Fonctionnalités
 #### 1. Tableau de bord (Dashboard)
 Le tableau de bord consolide les indicateurs clés (KPIs) : CSAT, NPS, CES, Taux de réclamation et Temps moyen de réponse. Il offre aux décideurs une vue globale et immédiate sur la santé de la relation client.
-> *[Insérer ici une capture d'écran du Dashboard de l'application]*
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/ad6a657d-1e64-4611-926f-dc57b036e720" />
+
 #### 2. Gestion des Réclamations
 L'interface permet de lister les réclamations récentes avec un code couleur reflétant l'urgence (Priorité Haute, Moyenne, Basse) et le statut de résolution. Les agents du service client peuvent ainsi prioriser leurs actions correctives.
-> *[Insérer ici une capture d'écran de l'onglet Réclamations]*
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/0e2dec4c-5d2e-4f8e-9710-fa3d18e5b4f3" />
+
 #### 3. Base de données Clients
 La section "Customers" affiche l'historique d'achat, le score de satisfaction individuel et le niveau de fidélité de chaque client. Des barres de progression colorées traduisent visuellement l'indice de satisfaction.
-> *[Insérer ici une capture d'écran de l'onglet Clients]*
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/dc60229e-3dfd-4169-bc36-278300f2a47c" />
+
 Cette maquette démontre l'applicabilité directe du plan opérationnel : de la collecte théorique (formulaires, avis) à l'affichage dynamique (Dashboard) permettant d'enclencher des actions correctives ciblées.
 ## 10. Résultats attendus et conclusion
 La mise en place de ce plan et de l'interface CRM permet d'atteindre plusieurs résultats clés :
